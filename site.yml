@@ -1,16 +1,11 @@
-title : Blog Title
-tagline: Blog Tagline
+title : Oh, Golden Years!
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Sharon E. Rhodes
+  email : rhodessharone@gmail.com
+  github : serhodes
+  twitter : sharonerhodes
 
 navigation :
   - archive.html
   - tags.html
   - categories.html
-  - pages.html
-  - about.md
-  
